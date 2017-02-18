@@ -1,0 +1,35 @@
+body{
+  /*background-color: #e2e1de; #b6e084#e5c98b,*/
+  background-color:#e6e9ef;
+  }
+  p{
+  color: gray;
+  font-size: 18px;
+}
+h1,h2,h3,h4{
+  color: #4286f4;
+
+}
+.caption a{
+  border: 1px solid green;
+  background-color: #87c96a;
+  color: white;
+  padding: 5px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+.caption a:hover{
+  text-decoration: none;
+  background-color: green;
+}
+.carousel-caption a:hover{
+    text-decoration: none;
+}
+.caption a:focus{
+  text-decoration: none;
+  color:#4286f4;
+}
+footer p{
+  text-align: center;
+}
